@@ -51,6 +51,14 @@ public class Util {
 		return all;
 	}
 
+	public static BigInteger[] concat(BigInteger[] a1, BigInteger[] a2) {
+		BigInteger[] all = new BigInteger[a1.length + a2.length];
+		for (int i = 0; i < all.length; i++) {
+			all[i] = i < a1.length ? a1[i] : a2[i - a1.length];
+		}
+		return all;
+	}
+
 	public static Wire[] concat(Wire[] a1, Wire[] a2) {
 		Wire[] all = new Wire[a1.length + a2.length];
 		for (int i = 0; i < all.length; i++) {

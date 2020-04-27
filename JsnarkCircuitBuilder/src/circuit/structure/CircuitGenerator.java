@@ -117,6 +117,7 @@ public abstract class CircuitGenerator {
 		return list;
 	}
 
+
 	public LongElement createLongElementInput(int totalBitwidth,  String... desc){
 		int numWires = (int) Math.ceil(totalBitwidth*1.0/LongElement.CHUNK_BITWIDTH);
 		Wire[] w = createInputWireArray(numWires, desc);

@@ -149,8 +149,7 @@ public class RSAEncryptionCircuitGenerator extends CircuitGenerator {
 			}
 
 		} catch (Exception e) {
-			System.err
-					.println("Error while generating sample input for circuit");
+			System.err.println("Error while generating sample input for circuit");
 			e.printStackTrace();
 		}
 
