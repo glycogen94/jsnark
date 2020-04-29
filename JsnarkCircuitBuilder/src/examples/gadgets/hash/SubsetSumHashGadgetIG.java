@@ -60,6 +60,26 @@ public class SubsetSumHashGadgetIG extends Gadget {
 		buildCircuitWires();
 	}
 
+	// public SubsetSumHashGadgetIG(Wire ins, boolean binaryOutput, String... desc) {
+
+	// 	super(desc);
+	// 	int numBlocks = (int) Math.ceil(1.0 / INPUT_LENGTH);
+
+	// 	if (numBlocks > 1) {
+	// 		throw new IllegalArgumentException("Only one block is supported at this point");
+	// 	}
+
+	// 	int rem = numBlocks * INPUT_LENGTH - 1;
+
+	// 	Wire[] pad = new Wire[rem];
+	// 	for (int i = 0; i < pad.length; i++) {
+	// 		pad[i] = generator.getZeroWire(); // TODO: adjust padding
+	// 	}
+	// 	inputWires = Util.concat(ins, pad);
+	// 	this.binaryOutput = binaryOutput;
+	// 	buildCircuitWires();
+	// }
+
 	public SubsetSumHashGadgetIG(BigInteger[] ins, boolean binaryOutput, String... desc) {
 
 		int numBlocks = (int) Math.ceil(ins.length * 1.0 / INPUT_LENGTH);

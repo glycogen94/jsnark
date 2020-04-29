@@ -16,6 +16,18 @@ public class myMath{
             }
         }
         return rst;
+    }
+
+    public static BigInteger[] getBitArray(BigInteger input, int bitwidth){
+        BigInteger cpy_input = input;
+
+        BigInteger[] rst = new BigInteger[1 * bitwidth];
+        //System.out.println(input.length * bitwidth);
+            for(int j = 0; j < bitwidth; j++){
+                rst[j] = cpy_input.and(BigInteger.ONE);
+                cpy_input = cpy_input.shiftRight(1);
+            }
+        return rst;
     } 
     
     public static BigInteger[] split(BigInteger input, int bitwidth, int blocksize){

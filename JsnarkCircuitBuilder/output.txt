@@ -1,0 +1,764 @@
+Running Circuit Generator for < test_IG >
+Circuit Generation Done for < test_IG >  
+ 	 Total Number of Constraints :  105200
+
+실행 시간 : 0.14
+Running Circuit Evaluator for < test_IG >
+	[output] Value of Wire # 7209 (result) :: 1
+	[output] Value of Wire # 12817 (result) :: 1
+	[output] Value of Wire # 18425 (result) :: 1
+	[output] Value of Wire # 24033 (result) :: 1
+	[output] Value of Wire # 29641 (result) :: 1
+	[output] Value of Wire # 35249 (result) :: 1
+	[output] Value of Wire # 40857 (result) :: 1
+	[output] Value of Wire # 46465 (result) :: 1
+	[output] Value of Wire # 52073 (result) :: 1
+	[output] Value of Wire # 57681 (result) :: 1
+	[output] Value of Wire # 63289 (result) :: 1
+	[output] Value of Wire # 68897 (result) :: 1
+	[output] Value of Wire # 74505 (result) :: 1
+	[output] Value of Wire # 80113 (result) :: 1
+	[output] Value of Wire # 85721 (result) :: 1
+	[output] Value of Wire # 91329 (result) :: 1
+	[output] Value of Wire # 96937 (result) :: 1
+	[output] Value of Wire # 102545 (result) :: 1
+	[output] Value of Wire # 108153 (result) :: 1
+	[output] Value of Wire # 113761 (result) :: 1
+	[output] Value of Wire # 119369 (result) :: 1
+	[output] Value of Wire # 124977 (result) :: 1
+	[output] Value of Wire # 130585 (result) :: 1
+	[output] Value of Wire # 136193 (result) :: 1
+	[output] Value of Wire # 141801 (result) :: 1
+	[output] Value of Wire # 147409 (result) :: 1
+	[output] Value of Wire # 153017 (result) :: 1
+	[output] Value of Wire # 158625 (result) :: 1
+	[output] Value of Wire # 164233 (result) :: 1
+	[output] Value of Wire # 169841 (result) :: 1
+	[output] Value of Wire # 175449 (result) :: 1
+	[output] Value of Wire # 181057 (result) :: 1
+	[output] Value of Wire # 186665 (result) :: 1
+	[output] Value of Wire # 192273 (result) :: 1
+	[output] Value of Wire # 197881 (result) :: 1
+	[output] Value of Wire # 203489 (result) :: 1
+	[output] Value of Wire # 209097 (result) :: 1
+	[output] Value of Wire # 214705 (result) :: 1
+	[output] Value of Wire # 220313 (result) :: 1
+	[output] Value of Wire # 225921 (result) :: 1
+	[output] Value of Wire # 231529 (result) :: 1
+	[output] Value of Wire # 237137 (result) :: 1
+	[output] Value of Wire # 242745 (result) :: 1
+	[output] Value of Wire # 248353 (result) :: 1
+	[output] Value of Wire # 253961 (result) :: 1
+	[output] Value of Wire # 259569 (result) :: 1
+	[output] Value of Wire # 265177 (result) :: 1
+	[output] Value of Wire # 270785 (result) :: 1
+	[output] Value of Wire # 276393 (result) :: 1
+	[output] Value of Wire # 282001 (result) :: 1
+	[output] Value of Wire # 287609 (result) :: 1
+	[output] Value of Wire # 293217 (result) :: 1
+	[output] Value of Wire # 298825 (result) :: 1
+	[output] Value of Wire # 304433 (result) :: 1
+	[output] Value of Wire # 310041 (result) :: 1
+	[output] Value of Wire # 315649 (result) :: 1
+	[output] Value of Wire # 321257 (result) :: 1
+	[output] Value of Wire # 326865 (result) :: 1
+	[output] Value of Wire # 332473 (result) :: 1
+	[output] Value of Wire # 338081 (result) :: 1
+	[output] Value of Wire # 343689 (result) :: 1
+	[output] Value of Wire # 349297 (result) :: 1
+	[output] Value of Wire # 354905 (result) :: 1
+	[output] Value of Wire # 360513 (result) :: 1
+	[output] Value of Wire # 366121 (result) :: 1
+	[output] Value of Wire # 371729 (result) :: 1
+	[output] Value of Wire # 377337 (result) :: 1
+	[output] Value of Wire # 382945 (result) :: 1
+	[output] Value of Wire # 388553 (result) :: 1
+	[output] Value of Wire # 394161 (result) :: 1
+	[output] Value of Wire # 399769 (result) :: 1
+	[output] Value of Wire # 405377 (result) :: 1
+	[output] Value of Wire # 410985 (result) :: 1
+	[output] Value of Wire # 416593 (result) :: 1
+	[output] Value of Wire # 422201 (result) :: 1
+	[output] Value of Wire # 427809 (result) :: 1
+	[output] Value of Wire # 433417 (result) :: 1
+	[output] Value of Wire # 439025 (result) :: 1
+	[output] Value of Wire # 444633 (result) :: 1
+	[output] Value of Wire # 450241 (result) :: 1
+	[output] Value of Wire # 455849 (result) :: 1
+	[output] Value of Wire # 461457 (result) :: 1
+	[output] Value of Wire # 467065 (result) :: 1
+	[output] Value of Wire # 472673 (result) :: 1
+	[output] Value of Wire # 478281 (result) :: 1
+	[output] Value of Wire # 483889 (result) :: 1
+	[output] Value of Wire # 489497 (result) :: 1
+	[output] Value of Wire # 495105 (result) :: 1
+	[output] Value of Wire # 500713 (result) :: 1
+	[output] Value of Wire # 506321 (result) :: 1
+	[output] Value of Wire # 511929 (result) :: 1
+	[output] Value of Wire # 517537 (result) :: 1
+	[output] Value of Wire # 523145 (result) :: 1
+	[output] Value of Wire # 528753 (result) :: 1
+	[output] Value of Wire # 534361 (result) :: 1
+	[output] Value of Wire # 539969 (result) :: 1
+	[output] Value of Wire # 545577 (result) :: 1
+	[output] Value of Wire # 551185 (result) :: 1
+	[output] Value of Wire # 556793 (result) :: 1
+	[output] Value of Wire # 562401 (result) :: 1
+	[output] Value of Wire # 568009 (result) :: 1
+	[output] Value of Wire # 573617 (result) :: 1
+	[output] Value of Wire # 579225 (result) :: 1
+	[output] Value of Wire # 584833 (result) :: 1
+	[output] Value of Wire # 590441 (result) :: 1
+	[output] Value of Wire # 596049 (result) :: 1
+	[output] Value of Wire # 601657 (result) :: 1
+	[output] Value of Wire # 607265 (result) :: 1
+	[output] Value of Wire # 612873 (result) :: 1
+	[output] Value of Wire # 618481 (result) :: 1
+	[output] Value of Wire # 624089 (result) :: 1
+	[output] Value of Wire # 629697 (result) :: 1
+	[output] Value of Wire # 635305 (result) :: 1
+	[output] Value of Wire # 640913 (result) :: 1
+	[output] Value of Wire # 646521 (result) :: 1
+	[output] Value of Wire # 652129 (result) :: 1
+	[output] Value of Wire # 657737 (result) :: 1
+	[output] Value of Wire # 663345 (result) :: 1
+	[output] Value of Wire # 668953 (result) :: 1
+	[output] Value of Wire # 674561 (result) :: 1
+	[output] Value of Wire # 680169 (result) :: 1
+	[output] Value of Wire # 685777 (result) :: 1
+	[output] Value of Wire # 691385 (result) :: 1
+	[output] Value of Wire # 696993 (result) :: 1
+	[output] Value of Wire # 702601 (result) :: 1
+	[output] Value of Wire # 708209 (result) :: 1
+	[output] Value of Wire # 713817 (result) :: 1
+	[output] Value of Wire # 719425 (result) :: 1
+	[output] Value of Wire # 725033 (result) :: 1
+	[output] Value of Wire # 730641 (result) :: 1
+	[output] Value of Wire # 736249 (result) :: 1
+	[output] Value of Wire # 741857 (result) :: 1
+	[output] Value of Wire # 747465 (result) :: 1
+	[output] Value of Wire # 753073 (result) :: 1
+	[output] Value of Wire # 758681 (result) :: 1
+	[output] Value of Wire # 764289 (result) :: 1
+	[output] Value of Wire # 769897 (result) :: 1
+	[output] Value of Wire # 775505 (result) :: 1
+	[output] Value of Wire # 781113 (result) :: 1
+	[output] Value of Wire # 786721 (result) :: 1
+	[output] Value of Wire # 792329 (result) :: 1
+	[output] Value of Wire # 797937 (result) :: 1
+	[output] Value of Wire # 803545 (result) :: 1
+	[output] Value of Wire # 809153 (result) :: 1
+	[output] Value of Wire # 814761 (result) :: 1
+	[output] Value of Wire # 820369 (result) :: 1
+	[output] Value of Wire # 825977 (result) :: 1
+	[output] Value of Wire # 831585 (result) :: 1
+	[output] Value of Wire # 837193 (result) :: 1
+	[output] Value of Wire # 842801 (result) :: 1
+	[output] Value of Wire # 848409 (result) :: 1
+	[output] Value of Wire # 854017 (result) :: 1
+	[output] Value of Wire # 859625 (result) :: 1
+	[output] Value of Wire # 865233 (result) :: 1
+	[output] Value of Wire # 870841 (result) :: 1
+	[output] Value of Wire # 876449 (result) :: 1
+	[output] Value of Wire # 882057 (result) :: 1
+	[output] Value of Wire # 887665 (result) :: 1
+	[output] Value of Wire # 893273 (result) :: 1
+	[output] Value of Wire # 898881 (result) :: 1
+	[output] Value of Wire # 904489 (result) :: 1
+	[output] Value of Wire # 910097 (result) :: 1
+	[output] Value of Wire # 915705 (result) :: 1
+	[output] Value of Wire # 921313 (result) :: 1
+	[output] Value of Wire # 926921 (result) :: 1
+	[output] Value of Wire # 932529 (result) :: 1
+	[output] Value of Wire # 938137 (result) :: 1
+	[output] Value of Wire # 943745 (result) :: 1
+	[output] Value of Wire # 949353 (result) :: 1
+	[output] Value of Wire # 954961 (result) :: 1
+	[output] Value of Wire # 960569 (result) :: 1
+	[output] Value of Wire # 966177 (result) :: 1
+	[output] Value of Wire # 971785 (result) :: 1
+	[output] Value of Wire # 977393 (result) :: 1
+	[output] Value of Wire # 983001 (result) :: 1
+	[output] Value of Wire # 988609 (result) :: 1
+	[output] Value of Wire # 994217 (result) :: 1
+	[output] Value of Wire # 999825 (result) :: 1
+	[output] Value of Wire # 1005433 (result) :: 1
+	[output] Value of Wire # 1011041 (result) :: 1
+	[output] Value of Wire # 1016649 (result) :: 1
+	[output] Value of Wire # 1022257 (result) :: 1
+	[output] Value of Wire # 1027865 (result) :: 1
+	[output] Value of Wire # 1033473 (result) :: 1
+	[output] Value of Wire # 1039081 (result) :: 1
+	[output] Value of Wire # 1044689 (result) :: 1
+	[output] Value of Wire # 1050297 (result) :: 1
+	[output] Value of Wire # 1055905 (result) :: 1
+	[output] Value of Wire # 1061513 (result) :: 1
+	[output] Value of Wire # 1067121 (result) :: 1
+	[output] Value of Wire # 1072729 (result) :: 1
+	[output] Value of Wire # 1078337 (result) :: 1
+	[output] Value of Wire # 1083945 (result) :: 1
+	[output] Value of Wire # 1089553 (result) :: 1
+	[output] Value of Wire # 1095161 (result) :: 1
+	[output] Value of Wire # 1100769 (result) :: 1
+	[output] Value of Wire # 1106377 (result) :: 1
+	[output] Value of Wire # 1111985 (result) :: 1
+	[output] Value of Wire # 1117593 (result) :: 1
+	[output] Value of Wire # 1123201 (result) :: 1
+	[output] Value of Wire # 1128809 (result) :: 1
+	[output] Value of Wire # 1134417 (result) :: 1
+	[output] Value of Wire # 1140025 (result) :: 1
+	[output] Value of Wire # 1145633 (result) :: 1
+	[output] Value of Wire # 1151241 (result) :: 1
+	[output] Value of Wire # 1156849 (result) :: 1
+	[output] Value of Wire # 1162457 (result) :: 1
+	[output] Value of Wire # 1168065 (result) :: 1
+	[output] Value of Wire # 1173673 (result) :: 1
+	[output] Value of Wire # 1179281 (result) :: 1
+	[output] Value of Wire # 1184889 (result) :: 1
+	[output] Value of Wire # 1190497 (result) :: 1
+	[output] Value of Wire # 1196105 (result) :: 1
+	[output] Value of Wire # 1201713 (result) :: 1
+	[output] Value of Wire # 1207321 (result) :: 1
+	[output] Value of Wire # 1212929 (result) :: 1
+	[output] Value of Wire # 1218537 (result) :: 1
+	[output] Value of Wire # 1224145 (result) :: 1
+	[output] Value of Wire # 1229753 (result) :: 1
+	[output] Value of Wire # 1235361 (result) :: 1
+	[output] Value of Wire # 1240969 (result) :: 1
+	[output] Value of Wire # 1246577 (result) :: 1
+	[output] Value of Wire # 1252185 (result) :: 1
+	[output] Value of Wire # 1257793 (result) :: 1
+	[output] Value of Wire # 1263401 (result) :: 1
+	[output] Value of Wire # 1269009 (result) :: 1
+	[output] Value of Wire # 1274617 (result) :: 1
+	[output] Value of Wire # 1280225 (result) :: 1
+	[output] Value of Wire # 1285833 (result) :: 1
+	[output] Value of Wire # 1291441 (result) :: 1
+	[output] Value of Wire # 1297049 (result) :: 1
+	[output] Value of Wire # 1302657 (result) :: 1
+	[output] Value of Wire # 1308265 (result) :: 1
+	[output] Value of Wire # 1313873 (result) :: 1
+	[output] Value of Wire # 1319481 (result) :: 1
+	[output] Value of Wire # 1325089 (result) :: 1
+	[output] Value of Wire # 1330697 (result) :: 1
+	[output] Value of Wire # 1336305 (result) :: 1
+	[output] Value of Wire # 1341913 (result) :: 1
+	[output] Value of Wire # 1347521 (result) :: 1
+	[output] Value of Wire # 1353129 (result) :: 1
+	[output] Value of Wire # 1358737 (result) :: 1
+	[output] Value of Wire # 1364345 (result) :: 1
+	[output] Value of Wire # 1369953 (result) :: 1
+	[output] Value of Wire # 1375561 (result) :: 1
+	[output] Value of Wire # 1381169 (result) :: 1
+	[output] Value of Wire # 1386777 (result) :: 1
+	[output] Value of Wire # 1392385 (result) :: 1
+	[output] Value of Wire # 1397993 (result) :: 1
+	[output] Value of Wire # 1403601 (result) :: 1
+	[output] Value of Wire # 1409209 (result) :: 1
+	[output] Value of Wire # 1414817 (result) :: 1
+	[output] Value of Wire # 1420425 (result) :: 1
+	[output] Value of Wire # 1426033 (result) :: 1
+	[output] Value of Wire # 1431641 (result) :: 1
+	[output] Value of Wire # 1437249 (result) :: 1
+	[output] Value of Wire # 1442857 (result) :: 1
+	[output] Value of Wire # 1448465 (result) :: 1
+	[output] Value of Wire # 1454073 (result) :: 1
+	[output] Value of Wire # 1459681 (result) :: 1
+	[output] Value of Wire # 1465289 (result) :: 1
+	[output] Value of Wire # 1470897 (result) :: 1
+	[output] Value of Wire # 1476505 (result) :: 1
+	[output] Value of Wire # 1482113 (result) :: 1
+	[output] Value of Wire # 1487721 (result) :: 1
+	[output] Value of Wire # 1493329 (result) :: 1
+	[output] Value of Wire # 1498937 (result) :: 1
+	[output] Value of Wire # 1504545 (result) :: 1
+	[output] Value of Wire # 1510153 (result) :: 1
+	[output] Value of Wire # 1515761 (result) :: 1
+	[output] Value of Wire # 1521369 (result) :: 1
+	[output] Value of Wire # 1526977 (result) :: 1
+	[output] Value of Wire # 1532585 (result) :: 1
+	[output] Value of Wire # 1538193 (result) :: 1
+	[output] Value of Wire # 1543801 (result) :: 1
+	[output] Value of Wire # 1549409 (result) :: 1
+	[output] Value of Wire # 1555017 (result) :: 1
+	[output] Value of Wire # 1560625 (result) :: 1
+	[output] Value of Wire # 1566233 (result) :: 1
+	[output] Value of Wire # 1571841 (result) :: 1
+	[output] Value of Wire # 1577449 (result) :: 1
+	[output] Value of Wire # 1583057 (result) :: 1
+	[output] Value of Wire # 1588665 (result) :: 1
+	[output] Value of Wire # 1594273 (result) :: 1
+	[output] Value of Wire # 1599881 (result) :: 1
+	[output] Value of Wire # 1605489 (result) :: 1
+	[output] Value of Wire # 1611097 (result) :: 1
+	[output] Value of Wire # 1616705 (result) :: 1
+	[output] Value of Wire # 1622313 (result) :: 1
+	[output] Value of Wire # 1627921 (result) :: 1
+	[output] Value of Wire # 1633529 (result) :: 1
+	[output] Value of Wire # 1639137 (result) :: 1
+	[output] Value of Wire # 1644745 (result) :: 1
+	[output] Value of Wire # 1650353 (result) :: 1
+	[output] Value of Wire # 1655961 (result) :: 1
+	[output] Value of Wire # 1661569 (result) :: 1
+	[output] Value of Wire # 1667177 (result) :: 1
+	[output] Value of Wire # 1672785 (result) :: 1
+	[output] Value of Wire # 1678393 (result) :: 1
+	[output] Value of Wire # 1684001 (result) :: 1
+	[output] Value of Wire # 1689609 (result) :: 1
+	[output] Value of Wire # 1695217 (result) :: 1
+	[output] Value of Wire # 1700825 (result) :: 1
+	[output] Value of Wire # 1706433 (result) :: 1
+	[output] Value of Wire # 1712041 (result) :: 1
+	[output] Value of Wire # 1717649 (result) :: 1
+	[output] Value of Wire # 1723257 (result) :: 1
+	[output] Value of Wire # 1728865 (result) :: 1
+	[output] Value of Wire # 1734473 (result) :: 1
+	[output] Value of Wire # 1740081 (result) :: 1
+	[output] Value of Wire # 1745689 (result) :: 1
+	[output] Value of Wire # 1751297 (result) :: 1
+	[output] Value of Wire # 1756905 (result) :: 1
+	[output] Value of Wire # 1762513 (result) :: 1
+	[output] Value of Wire # 1768121 (result) :: 1
+	[output] Value of Wire # 1773729 (result) :: 1
+	[output] Value of Wire # 1779337 (result) :: 1
+	[output] Value of Wire # 1784945 (result) :: 1
+	[output] Value of Wire # 1790553 (result) :: 1
+	[output] Value of Wire # 1796161 (result) :: 1
+	[output] Value of Wire # 1801769 (result) :: 1
+	[output] Value of Wire # 1807377 (result) :: 1
+	[output] Value of Wire # 1812985 (result) :: 1
+	[output] Value of Wire # 1818593 (result) :: 1
+	[output] Value of Wire # 1824201 (result) :: 1
+	[output] Value of Wire # 1829809 (result) :: 1
+	[output] Value of Wire # 1835417 (result) :: 1
+	[output] Value of Wire # 1841025 (result) :: 1
+	[output] Value of Wire # 1846633 (result) :: 1
+	[output] Value of Wire # 1852241 (result) :: 1
+	[output] Value of Wire # 1857849 (result) :: 1
+	[output] Value of Wire # 1863457 (result) :: 1
+	[output] Value of Wire # 1869065 (result) :: 1
+	[output] Value of Wire # 1874673 (result) :: 1
+	[output] Value of Wire # 1880281 (result) :: 1
+	[output] Value of Wire # 1885889 (result) :: 1
+	[output] Value of Wire # 1891497 (result) :: 1
+	[output] Value of Wire # 1897105 (result) :: 1
+	[output] Value of Wire # 1902713 (result) :: 1
+	[output] Value of Wire # 1908321 (result) :: 1
+	[output] Value of Wire # 1913929 (result) :: 1
+	[output] Value of Wire # 1919537 (result) :: 1
+	[output] Value of Wire # 1925145 (result) :: 1
+	[output] Value of Wire # 1930753 (result) :: 1
+	[output] Value of Wire # 1936361 (result) :: 1
+	[output] Value of Wire # 1941969 (result) :: 1
+	[output] Value of Wire # 1947577 (result) :: 1
+	[output] Value of Wire # 1953185 (result) :: 1
+	[output] Value of Wire # 1958793 (result) :: 1
+	[output] Value of Wire # 1964401 (result) :: 1
+	[output] Value of Wire # 1970009 (result) :: 1
+	[output] Value of Wire # 1975617 (result) :: 1
+	[output] Value of Wire # 1981225 (result) :: 1
+	[output] Value of Wire # 1986833 (result) :: 1
+	[output] Value of Wire # 1992441 (result) :: 1
+	[output] Value of Wire # 1998049 (result) :: 1
+	[output] Value of Wire # 2003657 (result) :: 1
+	[output] Value of Wire # 2009265 (result) :: 1
+	[output] Value of Wire # 2014873 (result) :: 1
+	[output] Value of Wire # 2020481 (result) :: 1
+	[output] Value of Wire # 2026089 (result) :: 1
+	[output] Value of Wire # 2031697 (result) :: 1
+	[output] Value of Wire # 2037305 (result) :: 1
+	[output] Value of Wire # 2042913 (result) :: 1
+	[output] Value of Wire # 2048521 (result) :: 1
+	[output] Value of Wire # 2054129 (result) :: 1
+	[output] Value of Wire # 2059737 (result) :: 1
+	[output] Value of Wire # 2065345 (result) :: 1
+	[output] Value of Wire # 2070953 (result) :: 1
+	[output] Value of Wire # 2076561 (result) :: 1
+	[output] Value of Wire # 2082169 (result) :: 1
+	[output] Value of Wire # 2087777 (result) :: 1
+	[output] Value of Wire # 2093385 (result) :: 1
+	[output] Value of Wire # 2098993 (result) :: 1
+	[output] Value of Wire # 2104601 (result) :: 1
+	[output] Value of Wire # 2110209 (result) :: 1
+	[output] Value of Wire # 2115817 (result) :: 1
+	[output] Value of Wire # 2121425 (result) :: 1
+	[output] Value of Wire # 2127033 (result) :: 1
+	[output] Value of Wire # 2132641 (result) :: 1
+	[output] Value of Wire # 2138249 (result) :: 1
+	[output] Value of Wire # 2143857 (result) :: 1
+	[output] Value of Wire # 2149465 (result) :: 1
+	[output] Value of Wire # 2155073 (result) :: 1
+	[output] Value of Wire # 2160681 (result) :: 1
+	[output] Value of Wire # 2166289 (result) :: 1
+	[output] Value of Wire # 2171897 (result) :: 1
+	[output] Value of Wire # 2177505 (result) :: 1
+	[output] Value of Wire # 2183113 (result) :: 1
+	[output] Value of Wire # 2188721 (result) :: 1
+	[output] Value of Wire # 2194329 (result) :: 1
+	[output] Value of Wire # 2199937 (result) :: 1
+	[output] Value of Wire # 2205545 (result) :: 1
+	[output] Value of Wire # 2211153 (result) :: 1
+	[output] Value of Wire # 2216761 (result) :: 1
+	[output] Value of Wire # 2222369 (result) :: 1
+	[output] Value of Wire # 2227977 (result) :: 1
+	[output] Value of Wire # 2233585 (result) :: 1
+	[output] Value of Wire # 2239193 (result) :: 1
+	[output] Value of Wire # 2244801 (result) :: 1
+Circuit Evaluation Done for < test_IG >
+
+
+
+-----------------------------------RUNNING LIBSNARK -----------------------------------------
+Reset time counters for profiling
+(enter) Parsing and Evaluating the circuit 	[             ]	(0.0007s x1.00 from start)
+(leave) Parsing and Evaluating the circuit 	[3.8299s x1.00]	(3.8307s x1.00 from start)
+Translating Constraints ... 
+	Constraint translation done
+	Memory usage for constraint translation: 182 MB
+Assignment of values done .. 
+(enter) Call to run_r1cs_ppzksnark         	[             ]	(9.9963s x1.00 from start)
+
+================================================================================
+R1CS ppzkSNARK Generator
+================================================================================
+
+  (enter) Call to r1cs_ppzksnark_generator   	[             ]	(9.9963s x1.00 from start)
+    (enter) Call to r1cs_constraint_system::swap_AB_if_beneficial	[             ]	(10.0338s x1.00 from start)
+      (enter) Estimate densities                 	[             ]	(10.0338s x1.00 from start)
+        * Non-zero A-count (estimate): 104002
+        * Non-zero B-count (estimate): 104402
+      (leave) Estimate densities                 	[0.0047s x1.00]	(10.0385s x1.00 from start)
+      (enter) Perform the swap                   	[             ]	(10.0385s x1.00 from start)
+      (leave) Perform the swap                   	[0.0007s x1.00]	(10.0392s x1.00 from start)
+    (leave) Call to r1cs_constraint_system::swap_AB_if_beneficial	[0.0054s x1.00]	(10.0392s x1.00 from start)
+    (enter) Call to r1cs_to_qap_instance_map_with_evaluation	[             ]	(10.0392s x1.00 from start)
+      (enter) Compute evaluations of A, B, C, H at t	[             ]	(10.0424s x1.00 from start)
+      (leave) Compute evaluations of A, B, C, H at t	[0.3624s x1.00]	(10.4048s x1.00 from start)
+    (leave) Call to r1cs_to_qap_instance_map_with_evaluation	[0.3656s x1.00]	(10.4048s x1.00 from start)
+    * QAP number of variables: 107601
+    * QAP pre degree: 105200
+    * QAP degree: 131072
+    * QAP number of input variables: 1601
+    (enter) Compute query densities            	[             ]	(10.4048s x1.00 from start)
+    (leave) Compute query densities            	[0.0009s x1.00]	(10.4057s x1.00 from start)
+    Choosing window size 16 for 758681 elements
+    Choosing window size 13 for 104001 elements
+    * G1 window: 16
+    * G2 window: 13
+    (enter) Generating G1 multiexp table       	[             ]	(10.4295s x1.00 from start)
+    (leave) Generating G1 multiexp table       	[0.5769s x1.00]	(11.0064s x1.00 from start)
+    (enter) Generating G2 multiexp table       	[             ]	(11.0064s x1.00 from start)
+    (leave) Generating G2 multiexp table       	[0.2436s x1.00]	(11.2500s x1.00 from start)
+    (enter) Generate R1CS proving key          	[             ]	(11.2500s x1.00 from start)
+      (enter) Generate knowledge commitments     	[             ]	(11.2500s x1.00 from start)
+        (enter) Compute the A-query                	[             ]	(11.2500s x1.00 from start)
+        Non-zero coordinate count: 104401/107603 (97.02%)
+        (leave) Compute the A-query                	[2.4420s x1.00]	(13.6920s x1.00 from start)
+        (enter) Compute the B-query                	[             ]	(13.6921s x1.00 from start)
+        Non-zero coordinate count: 104002/107603 (96.65%)
+        (leave) Compute the B-query                	[4.7292s x1.00]	(18.4213s x1.00 from start)
+        (enter) Compute the C-query                	[             ]	(18.4213s x1.00 from start)
+        Non-zero coordinate count: 103601/107603 (96.28%)
+        (leave) Compute the C-query                	[2.4529s x0.99]	(20.8743s x1.00 from start)
+        (enter) Compute the H-query                	[             ]	(20.8743s x1.00 from start)
+        .............. DONE!
+        (leave) Compute the H-query                	[1.7307s x0.93]	(22.6050s x0.99 from start)
+        (enter) Compute the K-query                	[             ]	(22.6050s x0.99 from start)
+        ........... DONE!
+        (leave) Compute the K-query                	[1.2197s x1.00]	(23.8247s x0.99 from start)
+      (leave) Generate knowledge commitments     	[12.5747s x0.99]	(23.8247s x0.99 from start)
+    (leave) Generate R1CS proving key          	[12.5747s x0.99]	(23.8247s x0.99 from start)
+    (enter) Generate R1CS verification key     	[             ]	(23.8247s x0.99 from start)
+      (enter) Encode IC query for R1CS verification key	[             ]	(23.8267s x0.99 from start)
+        . DONE!
+      (leave) Encode IC query for R1CS verification key	[0.0193s x1.00]	(23.8460s x0.99 from start)
+    (leave) Generate R1CS verification key     	[0.0213s x1.00]	(23.8460s x0.99 from start)
+  (leave) Call to r1cs_ppzksnark_generator   	[13.8498s x0.99]	(23.8460s x0.99 from start)
+  * G1 elements in PK: 776693
+  * Non-zero G1 elements in PK: 758684
+  * G2 elements in PK: 107603
+  * Non-zero G2 elements in PK: 104002
+  * PK size in bits: 266369694
+  * G1 elements in VK: 1603
+  * G2 elements in VK: 5
+  * VK size in bits: 514029
+
+  * Peak vsize (physical memory+swap) in mebibytes (after generator): 736
+
+================================================================================
+Preprocess verification key
+================================================================================
+
+  (enter) Call to r1cs_ppzksnark_verifier_process_vk	[             ]	(23.8461s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G2    	[             ]	(23.8461s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(23.8462s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G2    	[             ]	(23.8462s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(23.8463s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G1    	[             ]	(23.8463s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.02]	(23.8463s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G2    	[             ]	(23.8463s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(23.8464s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G2    	[             ]	(23.8464s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.00]	(23.8465s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G2    	[             ]	(23.8465s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.00]	(23.8466s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G1    	[             ]	(23.8466s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.03]	(23.8466s x0.99 from start)
+    (enter) Call to bn128_ate_precompute_G2    	[             ]	(23.8466s x0.99 from start)
+    (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.00]	(23.8467s x0.99 from start)
+  (leave) Call to r1cs_ppzksnark_verifier_process_vk	[0.0006s x1.00]	(23.8467s x0.99 from start)
+
+================================================================================
+R1CS ppzkSNARK Prover
+================================================================================
+
+  (enter) Call to r1cs_ppzksnark_prover      	[             ]	(23.8467s x0.99 from start)
+    (enter) Compute the polynomial H           	[             ]	(23.8467s x0.99 from start)
+      (enter) Call to r1cs_to_qap_witness_map    	[             ]	(23.8467s x0.99 from start)
+        (enter) Compute evaluation of polynomials A, B on set S	[             ]	(23.8473s x0.99 from start)
+        (leave) Compute evaluation of polynomials A, B on set S	[0.0588s x1.00]	(23.9061s x0.99 from start)
+        (enter) Compute coefficients of polynomial A	[             ]	(23.9061s x0.99 from start)
+        (leave) Compute coefficients of polynomial A	[0.1277s x1.00]	(24.0338s x0.99 from start)
+        (enter) Compute coefficients of polynomial B	[             ]	(24.0338s x0.99 from start)
+        (leave) Compute coefficients of polynomial B	[0.1250s x1.00]	(24.1588s x0.99 from start)
+        (enter) Compute ZK-patch                   	[             ]	(24.1588s x0.99 from start)
+        (leave) Compute ZK-patch                   	[0.0136s x1.00]	(24.1724s x0.99 from start)
+        (enter) Compute evaluation of polynomial A on set T	[             ]	(24.1724s x0.99 from start)
+        (leave) Compute evaluation of polynomial A on set T	[0.1357s x1.00]	(24.3080s x0.99 from start)
+        (enter) Compute evaluation of polynomial B on set T	[             ]	(24.3080s x0.99 from start)
+        (leave) Compute evaluation of polynomial B on set T	[0.1327s x1.00]	(24.4407s x0.99 from start)
+        (enter) Compute evaluation of polynomial H on set T	[             ]	(24.4407s x0.99 from start)
+          (enter) Compute evaluation of polynomial C on set S	[             ]	(24.4464s x0.99 from start)
+          (leave) Compute evaluation of polynomial C on set S	[0.0155s x1.00]	(24.4620s x0.99 from start)
+          (enter) Compute coefficients of polynomial C	[             ]	(24.4620s x0.99 from start)
+          (leave) Compute coefficients of polynomial C	[0.1244s x1.00]	(24.5864s x0.99 from start)
+          (enter) Compute evaluation of polynomial C on set T	[             ]	(24.5864s x0.99 from start)
+          (leave) Compute evaluation of polynomial C on set T	[0.1347s x1.00]	(24.7211s x0.99 from start)
+          (enter) Divide by Z on set T               	[             ]	(24.7228s x0.99 from start)
+          (leave) Divide by Z on set T               	[0.0054s x1.00]	(24.7283s x0.99 from start)
+        (leave) Compute evaluation of polynomial H on set T	[0.2876s x1.00]	(24.7283s x0.99 from start)
+        (enter) Compute coefficients of polynomial H	[             ]	(24.7283s x0.99 from start)
+        (leave) Compute coefficients of polynomial H	[0.1418s x1.00]	(24.8701s x0.99 from start)
+        (enter) Compute sum of H and ZK-patch      	[             ]	(24.8701s x0.99 from start)
+        (leave) Compute sum of H and ZK-patch      	[0.0013s x1.00]	(24.8714s x0.99 from start)
+      (leave) Call to r1cs_to_qap_witness_map    	[1.0247s x1.00]	(24.8714s x0.99 from start)
+    (leave) Compute the polynomial H           	[1.0252s x1.00]	(24.8720s x0.99 from start)
+    (enter) Compute the proof                  	[             ]	(24.8734s x0.99 from start)
+      (enter) Compute answer to A-query          	[             ]	(24.8734s x0.99 from start)
+      (enter) Process scalar vector              	[             ]	(24.8734s x0.99 from start)
+        * Elements of w skipped: 102486 (98.17%)
+        * Elements of w processed with special addition: 1914 (1.83%)
+        * Elements of w remaining: 0 (0.00%)
+      (leave) Process scalar vector              	[0.0024s x1.00]	(24.8758s x0.99 from start)
+      (leave) Compute answer to A-query          	[0.0024s x1.00]	(24.8758s x0.99 from start)
+      (enter) Compute answer to B-query          	[             ]	(24.8758s x0.99 from start)
+      (enter) Process scalar vector              	[             ]	(24.8758s x0.99 from start)
+        * Elements of w skipped: 100894 (97.01%)
+        * Elements of w processed with special addition: 1517 (1.46%)
+        * Elements of w remaining: 1590 (1.53%)
+      (leave) Process scalar vector              	[0.0039s x1.00]	(24.8797s x0.99 from start)
+      (leave) Compute answer to B-query          	[0.0499s x1.00]	(24.9257s x0.99 from start)
+      (enter) Compute answer to C-query          	[             ]	(24.9257s x0.99 from start)
+      (enter) Process scalar vector              	[             ]	(24.9257s x0.99 from start)
+        * Elements of w skipped: 101286 (97.77%)
+        * Elements of w processed with special addition: 2314 (2.23%)
+        * Elements of w remaining: 0 (0.00%)
+      (leave) Process scalar vector              	[0.0030s x1.00]	(24.9287s x0.99 from start)
+      (leave) Compute answer to C-query          	[0.0030s x1.00]	(24.9287s x0.99 from start)
+      (enter) Compute answer to H-query          	[             ]	(24.9287s x0.99 from start)
+      (leave) Compute answer to H-query          	[1.8206s x1.00]	(26.7493s x0.99 from start)
+      (enter) Compute answer to K-query          	[             ]	(26.7493s x0.99 from start)
+      (enter) Process scalar vector              	[             ]	(26.7493s x0.99 from start)
+        * Elements of w skipped: 103694 (96.37%)
+        * Elements of w processed with special addition: 2317 (2.15%)
+        * Elements of w remaining: 1590 (1.48%)
+      (leave) Process scalar vector              	[0.0017s x1.00]	(26.7510s x0.99 from start)
+      (leave) Compute answer to K-query          	[0.0147s x1.00]	(26.7640s x0.99 from start)
+    (leave) Compute the proof                  	[1.8906s x1.00]	(26.7640s x0.99 from start)
+  (leave) Call to r1cs_ppzksnark_prover      	[2.9173s x1.00]	(26.7640s x0.99 from start)
+  * G1 elements in proof: 7
+  * G2 elements in proof: 1
+  * Proof size in bits: 2294
+
+  * Peak vsize (physical memory+swap) in mebibytes (after prover): 736
+
+================================================================================
+R1CS ppzkSNARK Verifier
+================================================================================
+
+  (enter) Call to r1cs_ppzksnark_verifier_strong_IC	[             ]	(26.7641s x0.99 from start)
+    (enter) Call to r1cs_ppzksnark_verifier_process_vk	[             ]	(26.7641s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7641s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.02]	(26.7642s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7642s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.00]	(26.7643s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7643s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.04]	(26.7643s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7643s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(26.7644s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7644s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(26.7645s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7645s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.00]	(26.7645s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7645s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.03]	(26.7646s x0.99 from start)
+      (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7646s x0.99 from start)
+      (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(26.7646s x0.99 from start)
+    (leave) Call to r1cs_ppzksnark_verifier_process_vk	[0.0006s x1.00]	(26.7647s x0.99 from start)
+    (enter) Call to r1cs_ppzksnark_online_verifier_strong_IC	[             ]	(26.7647s x0.99 from start)
+      (enter) Call to r1cs_ppzksnark_online_verifier_weak_IC	[             ]	(26.7647s x0.99 from start)
+        (enter) Compute input-dependent part of A  	[             ]	(26.7647s x0.99 from start)
+        (leave) Compute input-dependent part of A  	[0.0131s x1.00]	(26.7777s x0.99 from start)
+        (enter) Check if the proof is well-formed  	[             ]	(26.7778s x0.99 from start)
+        (leave) Check if the proof is well-formed  	[0.0000s x1.11]	(26.7778s x0.99 from start)
+        (enter) Online pairing computations        	[             ]	(26.7778s x0.99 from start)
+          (enter) Check knowledge commitment for A is valid	[             ]	(26.7778s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7778s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.08]	(26.7778s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7778s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.05]	(26.7778s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7778s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.01]	(26.7780s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7780s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7782s x0.99 from start)
+            (enter) Call to bn128_final_exponentiation 	[             ]	(26.7782s x0.99 from start)
+            (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7785s x0.99 from start)
+          (leave) Check knowledge commitment for A is valid	[0.0007s x1.00]	(26.7785s x0.99 from start)
+          (enter) Check knowledge commitment for B is valid	[             ]	(26.7785s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7785s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(26.7786s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7786s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.04]	(26.7786s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7786s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7788s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7788s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7790s x0.99 from start)
+            (enter) Call to bn128_final_exponentiation 	[             ]	(26.7790s x0.99 from start)
+            (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7793s x0.99 from start)
+          (leave) Check knowledge commitment for B is valid	[0.0008s x1.00]	(26.7793s x0.99 from start)
+          (enter) Check knowledge commitment for C is valid	[             ]	(26.7793s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7794s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.05]	(26.7794s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7794s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.03]	(26.7794s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7794s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.01]	(26.7796s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7796s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7798s x0.99 from start)
+            (enter) Call to bn128_final_exponentiation 	[             ]	(26.7798s x0.99 from start)
+            (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7801s x0.99 from start)
+          (leave) Check knowledge commitment for C is valid	[0.0007s x1.00]	(26.7801s x0.99 from start)
+          (enter) Check QAP divisibility             	[             ]	(26.7801s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7801s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.04]	(26.7801s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7801s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.03]	(26.7801s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7801s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7803s x0.99 from start)
+            (enter) Call to double_miller_loop<bn128_pp>	[             ]	(26.7803s x0.99 from start)
+            (leave) Call to double_miller_loop<bn128_pp>	[0.0003s x1.00]	(26.7806s x0.99 from start)
+            (enter) Call to bn128_final_exponentiation 	[             ]	(26.7806s x0.99 from start)
+            (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7809s x0.99 from start)
+          (leave) Check QAP divisibility             	[0.0008s x1.00]	(26.7809s x0.99 from start)
+          (enter) Check same coefficients were used  	[             ]	(26.7809s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7809s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.06]	(26.7809s x0.99 from start)
+            (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7810s x0.99 from start)
+            (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.00]	(26.7810s x0.99 from start)
+            (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7810s x0.99 from start)
+            (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7812s x0.99 from start)
+            (enter) Call to double_miller_loop<bn128_pp>	[             ]	(26.7812s x0.99 from start)
+            (leave) Call to double_miller_loop<bn128_pp>	[0.0003s x1.00]	(26.7815s x0.99 from start)
+            (enter) Call to bn128_final_exponentiation 	[             ]	(26.7815s x0.99 from start)
+            (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7818s x0.99 from start)
+          (leave) Check same coefficients were used  	[0.0009s x1.00]	(26.7818s x0.99 from start)
+        (leave) Online pairing computations        	[0.0040s x1.00]	(26.7818s x0.99 from start)
+      (leave) Call to r1cs_ppzksnark_online_verifier_weak_IC	[0.0171s x1.00]	(26.7818s x0.99 from start)
+    (leave) Call to r1cs_ppzksnark_online_verifier_strong_IC	[0.0171s x1.00]	(26.7818s x0.99 from start)
+  (leave) Call to r1cs_ppzksnark_verifier_strong_IC	[0.0177s x1.00]	(26.7818s x0.99 from start)
+
+  * Peak vsize (physical memory+swap) in mebibytes (after verifier): 736
+* The verification result is: PASS
+
+================================================================================
+R1CS ppzkSNARK Online Verifier
+================================================================================
+
+  (enter) Call to r1cs_ppzksnark_online_verifier_strong_IC	[             ]	(26.7819s x0.99 from start)
+    (enter) Call to r1cs_ppzksnark_online_verifier_weak_IC	[             ]	(26.7819s x0.99 from start)
+      (enter) Compute input-dependent part of A  	[             ]	(26.7819s x0.99 from start)
+      (leave) Compute input-dependent part of A  	[0.0130s x1.00]	(26.7949s x0.99 from start)
+      (enter) Check if the proof is well-formed  	[             ]	(26.7949s x0.99 from start)
+      (leave) Check if the proof is well-formed  	[0.0000s x1.11]	(26.7949s x0.99 from start)
+      (enter) Online pairing computations        	[             ]	(26.7949s x0.99 from start)
+        (enter) Check knowledge commitment for A is valid	[             ]	(26.7949s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7949s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.10]	(26.7949s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7949s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.03]	(26.7949s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7949s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.01]	(26.7951s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7951s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.01]	(26.7953s x0.99 from start)
+          (enter) Call to bn128_final_exponentiation 	[             ]	(26.7953s x0.99 from start)
+          (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7957s x0.99 from start)
+        (leave) Check knowledge commitment for A is valid	[0.0008s x1.01]	(26.7957s x0.99 from start)
+        (enter) Check knowledge commitment for B is valid	[             ]	(26.7957s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G2    	[             ]	(26.7957s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G2    	[0.0001s x1.01]	(26.7958s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7958s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.04]	(26.7958s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7958s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7960s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7960s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7962s x0.99 from start)
+          (enter) Call to bn128_final_exponentiation 	[             ]	(26.7962s x0.99 from start)
+          (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7965s x0.99 from start)
+        (leave) Check knowledge commitment for B is valid	[0.0008s x1.00]	(26.7965s x0.99 from start)
+        (enter) Check knowledge commitment for C is valid	[             ]	(26.7965s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7965s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.05]	(26.7965s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7965s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.06]	(26.7965s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7965s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7967s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7967s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.01]	(26.7969s x0.99 from start)
+          (enter) Call to bn128_final_exponentiation 	[             ]	(26.7969s x0.99 from start)
+          (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7972s x0.99 from start)
+        (leave) Check knowledge commitment for C is valid	[0.0007s x1.00]	(26.7972s x0.99 from start)
+        (enter) Check QAP divisibility             	[             ]	(26.7972s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7972s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.07]	(26.7972s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7972s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.03]	(26.7972s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7973s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.01]	(26.7974s x0.99 from start)
+          (enter) Call to double_miller_loop<bn128_pp>	[             ]	(26.7974s x0.99 from start)
+          (leave) Call to double_miller_loop<bn128_pp>	[0.0003s x1.00]	(26.7978s x0.99 from start)
+          (enter) Call to bn128_final_exponentiation 	[             ]	(26.7978s x0.99 from start)
+          (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7981s x0.99 from start)
+        (leave) Check QAP divisibility             	[0.0008s x1.00]	(26.7981s x0.99 from start)
+        (enter) Check same coefficients were used  	[             ]	(26.7981s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7981s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.04]	(26.7981s x0.99 from start)
+          (enter) Call to bn128_ate_precompute_G1    	[             ]	(26.7981s x0.99 from start)
+          (leave) Call to bn128_ate_precompute_G1    	[0.0000s x1.02]	(26.7981s x0.99 from start)
+          (enter) Call to miller_loop<bn128_pp>      	[             ]	(26.7981s x0.99 from start)
+          (leave) Call to miller_loop<bn128_pp>      	[0.0002s x1.00]	(26.7983s x0.99 from start)
+          (enter) Call to double_miller_loop<bn128_pp>	[             ]	(26.7983s x0.99 from start)
+          (leave) Call to double_miller_loop<bn128_pp>	[0.0003s x1.00]	(26.7986s x0.99 from start)
+          (enter) Call to bn128_final_exponentiation 	[             ]	(26.7986s x0.99 from start)
+          (leave) Call to bn128_final_exponentiation 	[0.0003s x1.00]	(26.7989s x0.99 from start)
+        (leave) Check same coefficients were used  	[0.0008s x1.00]	(26.7989s x0.99 from start)
+      (leave) Online pairing computations        	[0.0040s x1.00]	(26.7989s x0.99 from start)
+    (leave) Call to r1cs_ppzksnark_online_verifier_weak_IC	[0.0171s x1.00]	(26.7989s x0.99 from start)
+  (leave) Call to r1cs_ppzksnark_online_verifier_strong_IC	[0.0171s x1.00]	(26.7989s x0.99 from start)
+
+================================================================================
+R1CS ppzkSNARK Affine Verifier
+================================================================================
+
+Affine verifier is not supported; not testing anything.
+(leave) Call to run_r1cs_ppzksnark         	[16.8027s x0.99]	(26.7990s x0.99 from start)
+
